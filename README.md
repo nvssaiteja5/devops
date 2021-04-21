@@ -1,6 +1,6 @@
 # GIT INTRODUCTION
 ### **Definition**
-GIT it is a version control system used to work on a set of files and track the changes in the files with a group of  people of individual
+Git it is a version control system used to work on a set of files and track the changes in the files with a group of people or individual
 
 * Git was developed by **LINUS TORVALS** in **2005**
 
