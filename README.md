@@ -85,7 +85,7 @@ Git it is a version control system used to work on a set of files and track the 
 ***
 ### Git pull
 * To get Files from github to the current directory. <br/>
-`git pull <repository_link> <branch_name>`<br/>
+`git pull <repository_link>  <branch_name>`<br/>
 **or**<br/>
 `git pull origin master`
 * The repository link is stored in origin and master is the branch.
