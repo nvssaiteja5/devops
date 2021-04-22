@@ -42,9 +42,11 @@ Git it is a version control system used to work on a set of files and track the 
  before moving to the commit stage
  
  ***
- ### Git push
+ ### Git commit
  `git commit -m "your commit message here"` <br/>
- * This command will push all the files  from staging area to the local repository
+ * This command will move all the files  from staging area to the local repository
  
+ ***
+ ### Git push
  
  
