@@ -50,7 +50,7 @@ Git it is a version control system used to work on a set of files and track the 
  ### Git push
  
 ` git push origin branch_name`
- *This command will push all files from local repository to remote repository 
+ * This command will push all files from local repository to remote repository 
  
  ***
  ### Git status
@@ -61,7 +61,7 @@ Git it is a version control system used to work on a set of files and track the 
  ***
  ### Git log 
  `git log `
- *It will display 
+ * It will display 
  
  *** 
  ### Git 
