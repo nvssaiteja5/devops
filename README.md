@@ -18,7 +18,7 @@ Git it is a version control system used to work on a set of files and track the 
 `git config --global --list`
 
 
-## Git commands 
+## **Git commands** 
 ### **Git Clone** 
 
 `https://github.com/nvssaiteja5/devops` <br/>
