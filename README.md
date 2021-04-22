@@ -10,7 +10,7 @@ Git it is a version control system used to work on a set of files and track the 
 * Write a repository name and enable **README.md** file creation.
 
 **README.md**
-* This file contains the description about the repository
+* This file contains the description about the repository and it will be displayed on the main page of that repository.
 
 
 ### Git configuration
