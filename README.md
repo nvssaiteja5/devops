@@ -76,15 +76,15 @@ Git it is a version control system used to work on a set of files and track the 
 
 ***
 ### Files to ignored 
-* File which should be ignored be git like **log file** are placed in **.gitignore**
+* File which should be ignored be git like **log file** are placed in **.gitignore**.
 
 ***
 ### Git pull
-* To get Files from github to the current directory <br/>
+* To get Files from github to the current directory. <br/>
 `git pull <repository_link> <branch_name>`<br/>
 **or**<br/>
 `git pull origin master`
-* the repository link is stored in origin and master is the branch
+* The repository link is stored in origin and master is the branch.
 
 ***
 
