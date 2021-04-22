@@ -61,10 +61,17 @@ Git it is a version control system used to work on a set of files and track the 
  ***
  ### Git log 
  `git log `
- * It will display 
+ * It will display the 
  
  *** 
- ### Git 
-
-* 
+ ### Git branch 
+ `git checkout <branch_name>`
+ * It will change the branch to  the branch which we specified
+ <br/>
+`git checkout -b <new_branch>` <br/>
+* It will create a new branch and it will change to that branch
+<br />
+`git branch`  <br/>
+* It will show all the branches and green mark indicated the branch you are inn
+ 
  
