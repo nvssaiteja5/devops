@@ -73,5 +73,9 @@ Git it is a version control system used to work on a set of files and track the 
 
 `git branch`  
 * It will show all the branches and green mark indicates the branch we are in .
+
+***
+### Files to ignored 
+
  
  
