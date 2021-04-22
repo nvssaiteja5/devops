@@ -42,8 +42,8 @@ Git it is a version control system used to work on a set of files and track the 
 `git add <file_name>` 
 * This will add a specified file to the staging area. <br/> <br/> 
  **Staging area**  <br/>
-* It is a place where we save the file and modify the file 
- before moving to the commit stage.
+* It is a place where we save the files and modify the files
+ before moving them to  the commit stage.
  
  ***
  ### Git commit
