@@ -6,7 +6,7 @@ Git it is a version control system used to work on a set of files and track the 
 
 ### Getting started 
 * **Git Repository** it is a place where all files are stored and  git tracks all the  changes made to a particular file 
-* To create a repository .
+* To create a repository click on the top right side **+** and select **New repository** .
 
 
 ### Git configuration
