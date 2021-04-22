@@ -15,8 +15,9 @@ Git it is a version control system used to work on a set of files and track the 
 ` git config --global user.gmail "mail id"` <br/>
 
 * To verify the configurations  <br/>
-`git config --global --list`
-
+```
+git config --global --list
+```
 
 ## Git commands 
 ### **Git Clone** 
