@@ -49,4 +49,20 @@ Git it is a version control system used to work on a set of files and track the 
  ***
  ### Git push
  
+` git push origin branch_name`
+ *This command will push all files from local repository to remote repository 
+ 
+ ***
+ ### Git status
+ `git status`
+ * It will display the state of all files in the working directory like which files are in staging area ,files which are modifies and files which are not tracked
+ *
+ 
+ ***
+ ### Git log 
+ `git log `
+ *It will display 
+ 
+ *** 
+ ### Git 
  
