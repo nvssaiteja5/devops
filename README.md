@@ -55,7 +55,7 @@ Git it is a version control system used to work on a set of files and track the 
  ***
  ### Git status
  `git status`
- * It will display the state of all files in the working directory like which files are in staging area ,files which are modifies and files which are not tracked
+ * It will display the state of all files in the working directory like which files are in staging area ,files which are modified and files which are not tracked
  *
  
  ***
