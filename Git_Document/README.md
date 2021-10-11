@@ -49,7 +49,7 @@ Git it is a version control system used to work on a set of files and track the 
  ### Git commit
  `git commit -m "your commit message here"` 
 <br/>
---`git commit -m "new git document is added` <br/>
+--`git commit -m "new git document is added"` <br/>
  * This command will move all the files  from staging area to the local repository.
  
  ***
