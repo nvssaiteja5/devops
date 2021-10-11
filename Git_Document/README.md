@@ -48,14 +48,16 @@ Git it is a version control system used to work on a set of files and track the 
  ***
  ### Git commit
  `git commit -m "your commit message here"` 
-`git commit -m "new git document is added` <br/>
+<br/>
+--`git commit -m "new git document is added` <br/>
  * This command will move all the files  from staging area to the local repository.
  
  ***
  ### Git push
  
 ` git push origin branch_name`
-`git push origin git1`
+<br/>
+--`git push origin git1`
  * This command will push all files from local repository to remote repository(git hub) .
  
  ***
@@ -89,7 +91,7 @@ Git it is a version control system used to work on a set of files and track the 
 ### Git pull
 * To get Files from github to the current directory. <br/>
 `git pull <repository_link>  <branch_name>`<br/>
-`git pull https://github.com/nvssaiteja5/devops.git`
+--`git pull https://github.com/nvssaiteja5/devops.git`
 **<br/>or**<br/>
 `git pull origin master`
 * The repository link is stored in origin and master is the branch.
