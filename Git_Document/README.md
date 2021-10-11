@@ -1,13 +1,13 @@
 #     GIT 
 ### **Definition**
-Git it is a version control system used to work on a set of files and track the changes in the files with a group of people or individual.
+Git it is a version control system used to work on a set of files and track the changes in the files while working with the  group of people or working  individually.
 
 * Git was developed by **LINUS TORVALDS** in **2005**.
 
 ### Getting started 
-* **Git Repository** it is a place where all files are stored and  git tracks all the  changes made to a particular file 
+* **Git Repository** it is a place where all files are stored and  git tracks all the  changes made to a particular file.
 * To create a repository click on the top right side **+** and select **New repository** .
-* Write a repository name and enable **README.md** file creation.
+* Write the repository name and enable **README.md** file creation.
 
 **README.md**
 * This file contains the description about the repository and it will be displayed on the main page of the repository.
@@ -47,14 +47,16 @@ Git it is a version control system used to work on a set of files and track the 
  
  ***
  ### Git commit
- `git commit -m "your commit message here"` <br/>
+ `git commit -m "your commit message here"` 
+`git commit -m "new git document is added` <br/>
  * This command will move all the files  from staging area to the local repository.
  
  ***
  ### Git push
  
 ` git push origin branch_name`
- * This command will push all files from local repository to remote repository .
+`git push origin git1`
+ * This command will push all files from local repository to remote repository(git hub) .
  
  ***
  ### Git status
@@ -76,7 +78,8 @@ Git it is a version control system used to work on a set of files and track the 
 * It will create a new branch and it will change to that branch.
 
 `git branch`  
-* It will show all the branches and green mark indicates the branch we are in .
+* It will show all the branches and the branch with the green mark indicates in which  branch we are working in  .
+
 
 ***
 ### Files to ignored 
@@ -86,6 +89,7 @@ Git it is a version control system used to work on a set of files and track the 
 ### Git pull
 * To get Files from github to the current directory. <br/>
 `git pull <repository_link>  <branch_name>`<br/>
+`git pull https://github.com/nvssaiteja5/devops.git`
 **or**<br/>
 `git pull origin master`
 * The repository link is stored in origin and master is the branch.
