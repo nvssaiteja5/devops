@@ -25,7 +25,7 @@ Git it is a version control system used to work on a set of files and track the 
 # **Git commands** 
 ### **Git Clone** 
 
-`https://github.com/nvssaiteja5/devops` <br/>
+`git clone https://github.com/nvssaiteja5/devops` <br/>
 * It will copy the repository into the current directory.
 * This command will copy all the files in the **devops** repository to your current directory.
 ***
